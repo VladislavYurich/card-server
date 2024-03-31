@@ -1,0 +1,44 @@
+{
+    "products": [
+      {
+        "id": "710e",
+        "img": "apple-watch.jpg",
+        "title": "mac-pro.jpg",
+        "count": 2,
+        "price": 10000,
+        "priceTotal": 20000
+      },
+      {
+        "id": "4ddf",
+        "img": "macbook.jpg",
+        "title": "Apple MacBook Air 13",
+        "count": 5,
+        "price": 10000,
+        "priceTotal": 50000
+      },
+      {
+        "id": "7310",
+        "img": "macbook.jpg",
+        "title": "apple-watch.jpg",
+        "count": 3,
+        "price": 9000,
+        "priceTotal": 27000
+      },
+      {
+        "id": "74e5",
+        "img": "apple-watch.jpg",
+        "title": "apple-watch.jpg",
+        "count": 2,
+        "price": 25000,
+        "priceTotal": 50000
+      },
+      {
+        "id": "c66a",
+        "img": "macbook.jpg",
+        "title": "Apple MacBook Air 13",
+        "count": 4,
+        "price": 25000,
+        "priceTotal": 100000
+      }
+    ]
+  }
